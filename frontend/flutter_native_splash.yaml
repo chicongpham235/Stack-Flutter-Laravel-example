@@ -1,0 +1,7 @@
+flutter_native_splash:
+  image: assets/foodorderanywhere_logo.png
+  color: "#00465F"
+  ios: true
+  android: true
+  android_12:
+    image: assets/foodorderanywhere_logo.png
